@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Response Letter</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      max-width: 600px;
+      margin: 2rem auto;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <address>
+    Dr. Eleanor Adams<br />
+    Department of Computer Science<br />
+    University of Future Tech<br />
+    eleanor.adams@uft.edu
+  </address>
+
+  <p>April 8, 2025</p>
+
+  <address>
+    Priya Rajan<br />
+    45 Gandhi Street<br />
+    Chennai, India<br />
+    priyarajan@email.com
+  </address>
+
+  <p>Dear Priya,</p>
+
+  <p>Thank you for your interest in pursuing a Ph.D. at the University of Future Tech. I was impressed by your background in machine learning and your enthusiasm for research.</p>
+
+  <p>We would be happy to consider your application. Please ensure that all materials are submitted by the deadline. If you have any questions, don’t hesitate to reach out.</p>
+
+  <p>Best regards,</p>
+  <p>Dr. Eleanor Adams</p>
+</body>
+</html>
